@@ -93,9 +93,9 @@ When the game ends:
 
 Example:
 
-```
+
 images/screenshot.png
-```
+
 
 Then use
 
