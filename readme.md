@@ -87,12 +87,9 @@ When the game ends:
 
 ---
 
-## 📸 Screenshot
-
-<img width="941" height="446" alt="screenshot" src="https://github.com/adibharat8-prog/Tic-Tac-Toe/blob/main/images/screenshot.png" />
+## 📸 Short Gameplay
 
 
-Then use
 
 <img width="787" height="371" alt="imagesgameplay" src="https://github.com/adibharat8-prog/Tic-Tac-Toe/blob/main/images/imagesgameplay.gif" />
 
