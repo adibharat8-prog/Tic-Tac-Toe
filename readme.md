@@ -88,9 +88,9 @@ When the game ends:
 ---
 
 ## 📸 Screenshot
-
-<img width="941" height="446" alt="screenshot" src="https://github.com/user-attachments/assets/b30d43de-da42-4106-8c21-26b59a414751" />
-
+<p align='center'></p>
+  <img width="941" height="446" alt="screenshot" src="https://github.com/user-attachments/assets/b30d43de-da42-4106-8c21-    26b59a414751" />
+</p>
 
 Then use
 
@@ -99,11 +99,9 @@ Then use
 </p>
 
 
-```markdown
-![Game Screenshot](images/screenshot.png)
-```
 
----
+
+
 
 ## 💡 Concepts Practiced
 
