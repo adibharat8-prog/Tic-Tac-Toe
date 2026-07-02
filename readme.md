@@ -94,7 +94,7 @@ When the game ends:
 
 Then use
 
-<img width="787" height="371" alt="imagesgameplay" src="https://github.com/user-attachments/assets/80d79971-d129-4061-bbf9-  db2213a86676" />
+<img width="787" height="371" alt="imagesgameplay" src="https://github.com/adibharat8-prog/Tic-Tac-Toe/blob/main/images/imagesgameplay.gif" />
 
 
 
