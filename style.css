@@ -1,0 +1,100 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Arial, sans-serif;
+}
+
+html, body{
+    height: 100%;
+    background-color: #212b39;
+}
+
+.outer{
+    background-color: #212b39;
+    min-height:100vh;
+    width: 100%;
+}
+
+.main-box{
+    height: 85vh;
+    width:70%;
+    border-radius:20px;
+    margin: 10px auto;
+    padding: 40px 20px;
+    background: rgba(248,247,244,1);
+    border: 1px solid rgba(0,0,0,0.08);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    overflow: hidden;
+    color: #212b39;
+}
+
+h1{
+    font-size:100px;
+    text-align:center;
+    padding-top: 30px;
+}
+
+
+h2{
+    text-align: center;
+    padding-top: 30px;
+}
+.container{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    position: relative;
+    left: 33%;
+    top: 5%;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    cursor: pointer;
+}
+
+.toast{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    max-width: 340px;
+    min-width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 12px 18px;
+    font-size: 16px;
+    line-height: 1.2;
+    background: rgba(40,167,69,0.95);
+    color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.35);
+    z-index: 9999;
+    opacity: 0;
+    transform: translateY(12px);
+    visibility: hidden;
+    transition: opacity 280ms ease, transform 280ms ease, visibility 280ms;
+}
+
+.blur{
+    filter: blur(3px);
+    transition: filter 0.3s ease;
+}
+.toast.show{
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+

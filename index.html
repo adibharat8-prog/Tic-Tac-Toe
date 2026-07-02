@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic-Tac-Toe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="outer">
+        <div id="main-box" class="main-box">
+
+            
+            <!-- Headings -->
+            <h1>Tic-Tac-Toe</h1>
+            <h2 id="playerTurn">Press any cell to start</h2>
+
+        
+            <!-- Main playboard -->
+            <div id="container" class="container">
+                <div class="row">
+                    <div onclick="(func(this))" id="0" class="col"></div>
+                    <div onclick="(func(this))" id="1" class="col"></div>
+                    <div onclick="(func(this))" id="2" class="col"></div>
+                </div>
+                <div class="row">
+                    <div onclick="(func(this))" id="3" class="col"></div>
+                    <div onclick="(func(this))" id="4" class="col"></div>
+                    <div onclick="(func(this))" id="5" class="col"></div>
+                </div>
+                <div class="row">
+                    <div onclick="(func(this))" id="6" class="col"></div>
+                    <div onclick="(func(this))" id="7" class="col"></div>
+                    <div onclick="(func(this))" id="8" class="col"></div>
+                </div>
+            </div>
+            
+        </div>
+
+
+        <!-- Message toast -->
+        <div id="toast" class="toast ">
+            Winner is 
+        </div>
+
+
+        <script src="script.js"></script>
+    </div>
+</body>
+</html>
