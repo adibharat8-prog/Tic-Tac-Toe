@@ -89,12 +89,15 @@ When the game ends:
 
 ## 📸 Screenshot
 
-> Add a screenshot here after uploading the project.
-
 <img width="941" height="446" alt="screenshot" src="https://github.com/user-attachments/assets/b30d43de-da42-4106-8c21-26b59a414751" />
 
 
 Then use
+
+<p align'center'>
+  <img width="787" height="371" alt="imagesgameplay" src="https://github.com/user-attachments/assets/80d79971-d129-4061-bbf9-  db2213a86676" />
+</p>
+
 
 ```markdown
 ![Game Screenshot](images/screenshot.png)
