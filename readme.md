@@ -89,7 +89,7 @@ When the game ends:
 
 ## 📸 Screenshot
 
-<img width="941" height="446" alt="screenshot" src="https://github.com/user-attachments/images/screenshot.png" />
+<img width="941" height="446" alt="screenshot" src="https://github.com/adibharat8-prog/Tic-Tac-Toe/blob/main/images/screenshot.png" />
 
 
 Then use
