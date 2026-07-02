@@ -91,10 +91,7 @@ When the game ends:
 
 > Add a screenshot here after uploading the project.
 
-Example:
-
-
-images/screenshot.png
+<img width="941" height="446" alt="screenshot" src="https://github.com/user-attachments/assets/b30d43de-da42-4106-8c21-26b59a414751" />
 
 
 Then use
