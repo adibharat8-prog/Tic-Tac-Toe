@@ -89,7 +89,7 @@ When the game ends:
 
 ## 📸 Screenshot
 
-<img width="941" height="446" alt="screenshot" src="https://github.com/user-attachments/assets/b30d43de-da42-4106-8c21-    26b59a414751" />
+<img width="941" height="446" alt="screenshot" src="https://github.com/user-attachments/images/screenshot.png" />
 
 
 Then use
